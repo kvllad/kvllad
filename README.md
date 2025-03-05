@@ -1,4 +1,4 @@
-![Header](https://github.com/Oguzok1/Oguzok1/hi.gif)
+![til](https://github.com/Oguzok1/Oguzok1/blob/main/hi.gif)
 
 ## Hi there! My name's Vlad and I'm a Professional Python Backend Developer with 2 years experience. 
 
